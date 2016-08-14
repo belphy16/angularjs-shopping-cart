@@ -11,4 +11,4 @@ Installing Angular <a target="_blank" href="https://www.youtube.com/watch?v=2wqC
 Basic Structure <a target="_blank" href="https://www.youtube.com/watch?v=7V-Y9fbe2Hk&list=PLivabR-0CtuPs6CKObTk4S3YNbBdd2vpE&index=4"><img src="https://youtube.com/favicon.ico" width="16"></a> <a target="_blank" href="https://github.com/kensplanet/angularjs-shopping-cart/commit/15ab82762f6c5e23b8bbb37d0e730876b54c9cd6"><img src="https://github.com/favicon.ico" width="16"></a>
 
    
-Header and Footer directives
+Header and Footer directives <a target="_blank" href="https://www.youtube.com/watch?v=4f_3Kg40lpk&list=PLivabR-0CtuPs6CKObTk4S3YNbBdd2vpE&index=5"><img src="https://youtube.com/favicon.ico" width="16"></a> <a target="_blank" href="https://github.com/kensplanet/angularjs-shopping-cart/commit/9174c527eed0b181ee97716845503366965254b0"><img src="https://github.com/favicon.ico" width="16"></a>
