@@ -8,4 +8,4 @@ before_install:
 install:
 - bower install
 after_script: scp -r -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -o
-  PubkeyAuthentication=yes -o PasswordAuthentication=no dist/* kensplanet@107.180.50.184:/home/kensplanet/public_html/angularjs_shopping-cart
+  PubkeyAuthentication=yes -o PasswordAuthentication=no ./* kensplanet@107.180.50.184:/home/kensplanet/public_html/angularjs_shopping-cart
