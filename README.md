@@ -1,4 +1,4 @@
-# AngularJS Shopping Cart
+# AngularJS Shopping Cart <a target="_blank" href="https://www.youtube.com/watch?v=2wqCTa6SWZw&index=3&list=PLivabR-0CtuPs6CKObTk4S3YNbBdd2vpE"><img src="https://www.youtube.com/yt/img/logo_1x.png"></a>
 
 * Quick Demo <a target="_blank" href="https://www.youtube.com/watch?v=Cme4gHdjgc8&index=1&list=PLivabR-0CtuPs6CKObTk4S3YNbBdd2vpE"><img src="https://youtube.com/favicon.ico" width="16"></a>
    
