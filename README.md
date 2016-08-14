@@ -1,1 +1,1 @@
-# AngularJS Shopping Cartss
+# AngularJS Shopping Cart
