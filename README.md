@@ -11,3 +11,5 @@
 
    
 * Header and Footer directives <a target="_blank" href="https://www.youtube.com/watch?v=4f_3Kg40lpk&list=PLivabR-0CtuPs6CKObTk4S3YNbBdd2vpE&index=5"><img src="https://youtube.com/favicon.ico" width="16"></a> <a target="_blank" href="https://github.com/kensplanet/angularjs-shopping-cart/commit/9174c527eed0b181ee97716845503366965254b0"><img src="https://github.com/favicon.ico" width="16"></a>
+
+* Header and Footer templates <a target="_blank" href="https://www.youtube.com/watch?v=oYN2xgPAs8E&list=PLivabR-0CtuPs6CKObTk4S3YNbBdd2vpE&index=6"><img src="https://youtube.com/favicon.ico" width="16"></a> <a target="_blank" href="https://github.com/kensplanet/angularjs-shopping-cart/commit/9174c527eed0b181ee97716845503366965254b0"><img src="https://github.com/favicon.ico" width="16"></a>
